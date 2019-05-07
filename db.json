@@ -7,6 +7,11 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "test": {
+    "segment1": "150",
+    "segment2": ["1","2","3"],
+    "segment3": ["54321","67890"]
   }
 }
 
